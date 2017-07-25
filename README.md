@@ -1,5 +1,5 @@
 # What
-This repo contains a sample iOS app that runs with a 80-class COCO trained tiny-yolo model and the TensorFlow libraries to do object detection and show the detected results and the bounding boxes.
+This repo contains a sample iOS app that runs with a 80-class COCO trained tiny-yolo model and the TensorFlow libraries to do object detection and show the detected results and the bounding boxes. An iOS app based on the repo has been published and available for free download [here](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1262711160&mt=8).
 
 # How
 
